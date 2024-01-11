@@ -44,4 +44,4 @@ p.append(strong, text1, a1, text2, a2, text3, a3, text4);
 div.appendChild(p);
 main.appendChild(div);
 
-document.main.insertBefore(document.querySelector("script"));
+document.body.insertBefore(main, document.querySelector("script"));
