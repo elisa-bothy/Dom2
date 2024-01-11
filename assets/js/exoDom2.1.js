@@ -1,19 +1,3 @@
-/*<main>
-<div id="2c2">
-<p>
-<strong>JavaScript</strong> a été créé en 1995 par
-<a href="/wiki/Brendan_Eich" title="Brendan Eich">Brendan Eich</a>.
-Il a été standardisé sous le nom d'
-<a href="/wiki/ECMAScript" title="ECMAScript">ECMAScript</a> en
-juin 1997 par
-<a href="/wiki/Ecma_International" title="Ecma International">Ecma
-International</a> dans le standard ECMA-262.
-</p>
-</div>
-</main>
-<script src="./assets/js/exoDom2.1.js "></script>
-*/
-
 const main = document.createElement("main");
 const div = document.createElement("div");
 const p = document.createElement("p");
